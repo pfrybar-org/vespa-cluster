@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+  name: vespa-cluster
+  description: An example of a Vespa cluster
+spec:
+  type: vespa
+  owner: guests
