@@ -4,7 +4,7 @@ metadata:
   name: vespa-cluster
   description: An example of a Vespa cluster
   annotations:
-    vespa.ai/endpoint: "http://semantic-vespa3-query.services.gew1.spotify.net:8080"
+    vespa.ai/config-url: "http://semantic-vespa3-query.services.gew1.spotify.net:8080"
 spec:
   type: vespa
   owner: guests
